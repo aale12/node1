@@ -1,0 +1,22 @@
+{
+  "name": "node1",
+  "version": "1.0.0",
+  "description": "my first JSSON package",
+  "main": "touch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aale12/node1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aale12/node1/issues"
+  },
+  "homepage": "https://github.com/aale12/node1#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0"
+  }
+}
